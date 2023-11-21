@@ -11,7 +11,7 @@ namespace pelda
         static void Main(string[] args)
         {
 
-            Console.WriteLine("hello gitHub mmm");
+            Console.WriteLine("hello gitHub mmm ");
         }
     }
 }
