@@ -12,6 +12,7 @@ namespace pelda
         {
 
             Console.WriteLine("hello gitHub mmm ");
+            Console.WriteLine("megint váltiztattunk");
         }
     }
 }
