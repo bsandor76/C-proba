@@ -10,6 +10,8 @@ namespace pelda
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("hello gitHub");
         }
     }
 }
