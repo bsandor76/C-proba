@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pelda", "pelda\pelda.csproj", "{0D2757CF-8EA0-439D-888A-1DD3D1AF228C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D2757CF-8EA0-439D-888A-1DD3D1AF228C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2757CF-8EA0-439D-888A-1DD3D1AF228C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2757CF-8EA0-439D-888A-1DD3D1AF228C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2757CF-8EA0-439D-888A-1DD3D1AF228C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6EFEFC2-B472-440F-BD4F-7F3A2C4E2978}
+	EndGlobalSection
+EndGlobal
